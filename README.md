@@ -2,9 +2,10 @@
 
  A 5x14 ortholinear board with an STM32 Blackpill. USB port is removed and rotated to face the back, which avoids any issues with trying to fit a usb cable sideways. This board  needs a decent amount of SMD soldering experience for the diodes and USB-C port resistors. 
  
- BOM
+ ## BOM
  - STM32 Blackpill or similar footprint
  - 1x PCB and FR4 plate
+ - 40 socket pins and spare through hole wires to socket the STM32
  - 1 Acrylic base cut
  - 2x 5.1k resistors 0402 (can take from stm32 blackpill)
  - 1x 0ohm resistor (optional, just solder copper wire over the pads)
