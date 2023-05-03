@@ -10,7 +10,6 @@
  - 1x 0ohm resistor (optional, just solder copper wire over the pads)
  - 70 Diodes (depends on key count)
  - 70 MX Switches
- - Acrylic base from dxf file
  - 7mm spacers + some more spacers for the 2nd acrylic panel
  - m2x8 or m2x10 screws x4 (top plate)
  - m2x5 to m2x8 screws x5 (bottom part of plate)
