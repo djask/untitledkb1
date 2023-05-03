@@ -16,6 +16,9 @@
  - m2x5 to m2x8 screws x5 (bottom part of plate)
  - Rubber feet (optional)
  - Stabilizers (optional)
+ 
+## Software
+See https://github.com/djask/qmk_defs/tree/master/untitledkb1 for a QMK reference config. The board, however, is compatible with any software that supports ARM microcontrollers. 
 
 ![PXL_20230501_010333508](https://user-images.githubusercontent.com/6979581/235864054-314db627-e1a8-4338-8250-4777cfb5b114.jpg)
 ![PXL_20230501_010400049](https://user-images.githubusercontent.com/6979581/235864068-bfe75438-2343-46af-93e5-b2f40248b500.jpg)
